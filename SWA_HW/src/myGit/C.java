@@ -5,6 +5,8 @@ public class C {
 	
 	C(){
 		menu = "순대국밥";
+		
+		menu = "돼지국밥";
 	}
 	
 	public String getMenu() {
