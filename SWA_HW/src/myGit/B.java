@@ -5,6 +5,8 @@ public class B {
 	
 	B(){
 		menu = "감자탕";
+		
+		menu = "마라탕";
 	}
 	
 	public String getMenu() {

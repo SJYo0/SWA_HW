@@ -9,6 +9,9 @@ public class A {
 		
 		System.out.println("메뉴 선택 : "+selectMenuC.getMenu());
 		
+		B selectMenuB = new B();
+		
+		System.out.println("메뉴 선택 : "+selectMenuB.getMenu());
 	}
 
 }
